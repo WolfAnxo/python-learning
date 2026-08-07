@@ -1,8 +1,10 @@
 # 🐍 Python Learning
 
-Repositorio donde documento mi aprendizaje de Python mediante ejercicios prácticos y proyectos desarrollados desde cero.
+Repositorio donde documento mi aprendizaje de Python mediante ejercicios, prácticas y proyectos desarrollados desde cero.
 
-El objetivo de este repositorio es construir una base sólida en programación antes de avanzar hacia tecnologías como bases de datos, APIs, desarrollo web y automatización.
+El objetivo de este repositorio es consolidar una base sólida en Python a través de la práctica continua, aplicando cada concepto aprendido en pequeños ejercicios y proyectos progresivos.
+
+---
 
 ## 📚 Contenido
 
@@ -13,23 +15,26 @@ El objetivo de este repositorio es construir una base sólida en programación a
 - ✅ Listas
 - ✅ Diccionarios
 - ✅ Funciones
-- ✅ Manejo de excepciones
+- ✅ Excepciones
 - ✅ Archivos
 - ✅ Módulos
 - ✅ Programación Orientada a Objetos (POO)
 
+---
+
 ## 🚀 Proyectos
 
-### Gestor de Clientes
+### 🧮 Calculadora
+Primer proyecto para practicar variables, operadores y estructuras de control.
 
-Aplicación de consola desarrollada progresivamente para aplicar los conceptos aprendidos.
+### 👥 Gestor de Clientes
+Proyecto desarrollado de forma progresiva para aplicar los conocimientos adquiridos durante el aprendizaje.
 
 Versiones incluidas:
 
-- Calculadora (primer proyecto)
-- Gestor de Clientes
-- Gestor de Clientes Modular
-- Gestor de Clientes con Programación Orientada a Objetos
+- CRUD básico
+- CRUD modular
+- CRUD orientado a objetos (POO)
 
 ### Funcionalidades
 
@@ -39,18 +44,11 @@ Versiones incluidas:
 - Modificar clientes
 - Eliminar clientes
 - Organización del código en módulos
-- Implementación mediante clases y objetos
+- Diseño basado en clases y objetos
 
-## 🎯 Próximos objetivos
+---
 
-- SQLite
-- APIs REST
-- Flask / FastAPI
-- Testing
-- Automatización
-- Agentes de IA
-
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías utilizadas
 
 - Python 3
 - Git
@@ -59,4 +57,29 @@ Versiones incluidas:
 
 ---
 
-Este repositorio refleja mi progreso y evolución como desarrollador de Python mediante ejercicios y proyectos realizados durante mi formación.
+## 📈 Roadmap
+
+- ✅ Fundamentos de Python
+- ✅ Funciones
+- ✅ Excepciones
+- ✅ Archivos
+- ✅ Módulos
+- ✅ Programación Orientada a Objetos
+- ⏳ SQLite
+- ⏳ APIs REST
+- ⏳ Flask / FastAPI
+- ⏳ Testing
+- ⏳ Automatización
+- ⏳ Inteligencia Artificial y Agentes
+
+---
+
+## 🎯 Objetivo
+
+Este repositorio refleja mi evolución como desarrollador de Python mediante ejercicios y proyectos prácticos, siguiendo un aprendizaje progresivo basado en la resolución de problemas reales y buenas prácticas de programación.
+
+Cada módulo incorpora nuevos conceptos que posteriormente se aplican en proyectos para reforzar el aprendizaje.
+
+---
+
+⭐ Si te resulta interesante este repositorio, puedes darle una estrella.
