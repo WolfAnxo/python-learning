@@ -25,3 +25,15 @@ class TareaActualizar(BaseModel):
         if valor is not None and valor.strip() == "":
             raise ValueError("El titulo no es valido")
         return valor
+
+class UsuarioCrear(BaseModel):
+    username: str = Field(min_length=3)
+    password: str = Field(min_length=3)
+
+class UsuarioRespuesta(BaseModel):
+    id: int
+    username: str
+
+class UsuarioLogin(BaseModel):
+    username: str
+    password: str

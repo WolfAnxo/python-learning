@@ -1,10 +1,11 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 from conexion import conectar
-from schemas import TareaActualizar, TareaRespuesta, TareaCrear
-from routers.tareas import router
+from routers.tareas import router as router_tareas
+from routers.usuarios import router as router_usuarios
 
 app = FastAPI()
-app.include_router(router)
+app.include_router(router_tareas)
+app.include_router(router_usuarios)
 
 @app.get("/")
 def inicio():
